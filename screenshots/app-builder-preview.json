@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Under the Mask",
+      "hasCanvas": false,
+      "bodyTextLen": 60,
+      "bodyTextHash": "1c433f516c610808d170c6708e48261d9be814bab219c44c90eb437b37483676",
+      "bodyTextPrefix": "Under the Mask 0:00 / 3:19 Goth-pop Under the Mask 0:00 3:19",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Under the Mask",
+      "hasCanvas": false,
+      "bodyTextLen": 55,
+      "bodyTextHash": "981ec8486440397cab50a7cf402f69c68977e741e718dbba72f43f094b3a1d29",
+      "bodyTextPrefix": "Under the Mask 0:00 / 3:19 Goth-pop Under the Mask 0:00",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
